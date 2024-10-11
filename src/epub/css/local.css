@@ -40,6 +40,7 @@ footer{
 	display: none;
 }
 
+[epub|type~="z3998:verse"] p + p,
 [epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
@@ -80,7 +81,6 @@ header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
 }
 /* end epigraphs */
-
 
 /* full-page epigraphs */
 section[epub|type~="epigraph"]{
