@@ -200,8 +200,8 @@
 	<search-key-group href="text/glossary.xhtml#malacanang">
 		<match value="malacañang"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#mankukulan">
-		<match value="mankukúlan"/>
+	<search-key-group href="text/glossary.xhtml#mankukulam">
+		<match value="mankukúlam"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#morisqueta">
 		<match value="morisqueta"/>
