@@ -122,7 +122,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#director-directorcillo">
 		<match value="director"/>
-			<value value="directorcillo"/>
+		<value value="directorcillo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#distinguido">
 		<match value="distinguido"/>
@@ -144,7 +144,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hermano-mayor">
 		<match value="hermano mayor"/>
-			<value value="hermanos mayores"/>
+		<value value="hermanos mayores"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#husi">
 		<match value="husi"/>
@@ -256,10 +256,10 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#proper-names">
 		<match value="Andeng"/>
-			<value value="Doray"/>
-			<value value="Sisa"/>
-			<value value="Tiago"/>
-			<value value="Tinong"/>
+		<value value="Doray"/>
+		<value value="Sisa"/>
+		<value value="Tiago"/>
+		<value value="Tinong"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#provincial">
 		<match value="provincial"/>
