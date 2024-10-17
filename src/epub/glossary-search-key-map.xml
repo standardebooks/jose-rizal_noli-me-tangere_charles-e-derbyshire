@@ -34,7 +34,7 @@
 		<match value="asuang"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ate">
-		<match value="ate"/>
+		<match value="ates"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#audiencia">
 		<match value="audiencia"/>
@@ -47,9 +47,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#babaye">
 		<match value="babaye"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#baguio">
-		<match value="baguio"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bailuhan">
 		<match value="bailúhan"/>
@@ -67,7 +64,9 @@
 		<match value="buyo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cabeza-de-barangay">
-		<match value="cabeza de barangay"/>
+		<match value="cabeza de barangay">
+			<value value="cabezas de barangay"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#calle">
 		<match value="calle"/>
@@ -85,10 +84,12 @@
 		<match value="carambas"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#carbineer">
-		<match value="carbineer"/>
+		<match value="carbineer">
+			<value value="carbineers"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cedula">
-		<match value="cedula"/>
+		<match value="cédula"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#chico">
 		<match value="chicos"/>
@@ -97,25 +98,30 @@
 		<match value="civil guard"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cochero">
-		<match value="cochero"/>
+		<match value="cochero">
+			<value value="cocheros"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#consul">
 		<match value="consul"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cuadrillero">
-		<match value="cuadrillero"/>
+		<match value="cuadrillero">
+			<value value="cuadrilleros"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cuarto">
-		<match value="cuarto"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#cuidao">
-		<match value="cuidao"/>
+		<match value="cuarto">
+			<value value="cuartos"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dalag">
 		<match value="dalag"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dalaga">
-		<match value="dalaga"/>
+		<match value="dalaga">
+			<value value="dalagas"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dinding">
 		<match value="dinding"/>
@@ -157,9 +163,6 @@
 	<search-key-group href="text/glossary.xhtml#indian">
 		<match value="indian"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#kaingin">
-		<match value="kaingin"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kalan">
 		<match value="kalan"/>
 	</search-key-group>
@@ -198,9 +201,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lomboy">
 		<match value="lomboy"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#malacanang">
-		<match value="malacañang"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mankukulam">
 		<match value="mankukúlam"/>
@@ -306,9 +306,6 @@
 	<search-key-group href="text/glossary.xhtml#talibon">
 		<match value="talibon"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#tapa">
-		<match value="tapa"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tapis">
 		<match value="tapis"/>
 	</search-key-group>
@@ -331,7 +328,9 @@
 		<match value="tikbálang"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tulisan">
-		<match value="tulisan"/>
+		<match value="tulisan">
+			<value value="tulisanes"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#zacate">
 		<match value="zacate"/>
