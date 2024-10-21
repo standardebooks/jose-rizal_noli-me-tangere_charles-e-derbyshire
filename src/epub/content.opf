@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jose-rizal/noli-me-tangere/charles-e-derbyshire</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-21T20:31:09Z</dc:date>
+		<meta property="dcterms:modified">2024-10-21T20:31:09Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,15 +38,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">After years away studying in Europe, a man returns to his hometown in the Philippines, and plans to build a school for the improvement of the local population.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Noli Me Tangere&lt;/i&gt; is a novel that takes place towards the end of the Spanish colonization of the Philippines. It deals with the corruption that had worked its way into the church and governing authorities over the centuries. The title, Latin for “touch me not,” is a reference to the passage in the Gospel of John, where the resurrected Jesus tells Mary Magdalene not to cling to him. It also refers to types of cancer sores that are very painful and irritated by touch, serving as a metaphor for the state of Philippine society as seen by the author at that time.&lt;/p&gt;
-			&lt;p&gt;Crisóstomo Ibarra returns from Europe after years of study, shortly after the death of his father. He has plans to marry his sweetheart from childhood, María Clara, and to open a school in his hometown. He is a hopeful idealist and believes that the native population can improve its situation if given a proper education. But a friend warns him that he will make enemies—in fact, he already has enemies—by undertaking such a project. Past secrets emerge, and Crisóstomo must deal with unnamed forces working against him.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jose-rizal"&gt;José Rizal&lt;/a&gt; was a writer and political reformer, and is a national hero of the Philippines. His writings inspired a failed revolution, but helped to bring about later independence. A few years after &lt;i&gt;Noli Me Tangere&lt;/i&gt;, he wrote &lt;i&gt;El filibusterismo&lt;/i&gt; as a sequel. Both books were long banned in the Philippines, but today are required reading for students.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Noli Me Tangere&lt;/i&gt; takes place towards the end of the Spanish colonization of the Philippines. It deals with the corruption that had worked its way into the church and governing authorities over the centuries. The title, Latin for “touch me not,” is a reference to the passage in the Gospel of John, where the resurrected Jesus tells Mary Magdalene not to cling to him. It also refers to types of cancer sores that are very painful and irritated by touch, serving as a metaphor for the state of Philippine society that &lt;a href="https://standardebooks.org/ebooks/jose-rizal"&gt;Rizal&lt;/a&gt; perceived.&lt;/p&gt;
+			&lt;p&gt;Crisóstomo Ibarra returns from Europe after years of study, shortly after the death of his father. He plans to marry his childhood sweetheart, María Clara, and to open a school in his hometown. Crisóstomo is a hopeful idealist, believing that the Filipinos can improve their situation if given a proper education. But a friend warns him that he will make enemies by undertaking such a project—and in fact, he already has enemies. Soon past secrets emerge, and Crisóstomo must deal with unnamed forces working against him.&lt;/p&gt;
+			&lt;p&gt;Together with its sequel, &lt;i&gt;El Filibusterismo&lt;/i&gt;, &lt;i&gt;Noli Me Tangere&lt;/i&gt; indirectly influenced Philippine revolutionary sentiment to such an extent that Rizal was exiled and subsequently executed by the Spanish government. Both novels were long banned in the Philippines, but today are required reading for students, with Rizal considered a national hero.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6737</dc:source>
 		<dc:source>https://archive.org/details/socialcancer00derbgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">170822</meta>
+		<meta property="se:reading-ease.flesch">69.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jose-rizal_noli-me-tangere_charles-e-derbyshire</meta>
 		<dc:creator id="author">José Rizal</dc:creator>
@@ -80,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
