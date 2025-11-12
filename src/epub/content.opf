@@ -55,14 +55,14 @@
 		<meta property="se:name.person.full-name" refines="#author">José Protasio Rizal Mercado y Alonso Realonda</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jose_Rizal</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80051794</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Charles E. Derbyshire</dc:contributor>
 		<meta property="file-as" refines="#translator">Derbyshire, Charles E.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Charles_Derbyshire</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nb97077849</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Eugenio Lucas Velázquez</dc:contributor>
 		<meta property="file-as" refines="#artist">Velázquez, Eugenio Lucas</meta>
